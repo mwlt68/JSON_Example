@@ -1,6 +1,6 @@
 # 🚀 The goal of the project
 
-A quiz app will be developed for android. The question pool of this application needs to be constantly updated by another user. It is a difficult task for the user to manipulate the json file directly. In order to do it in an easier way, the user will be able to add, edit and remove new questions, thanks to this developed form application. Later, this json file will be added to the android application and run. Since the user is Turkish, the user interface is in Turkish.
+A [quiz app](https://github.com/mwlt68/Quiz_Game) will be developed for android. The question pool of this application needs to be constantly updated by another user. It is a difficult task for the user to manipulate the json file directly. In order to do it in an easier way, the user will be able to add, edit and remove new questions, thanks to this developed form application. Later, this json file will be added to the android application and run. Since the user is Turkish, the user interface is in Turkish.
 
 # Project Features
 
